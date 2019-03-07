@@ -1,0 +1,11 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\bin\Debug\VBT1.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\bin\Debug\VBT1.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\bin\Debug\VBT1.xml
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\obj\x86\Debug\VBT1.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\obj\x86\Debug\VBT1.vbproj.GenerateResource.Cache
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\obj\x86\Debug\VBT1.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\obj\x86\Debug\VBT1.xml
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\obj\x86\Debug\VBT1.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\obj\x86\Debug\VBT1.vbprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\bin\Debug\Newtonsoft.Json.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\VBT1\VBT1\bin\Debug\Newtonsoft.Json.xml
